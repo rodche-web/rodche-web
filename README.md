@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rodche-web
-- 👀 I’m interested in Machine Learning and Big Data.
+- 👀 I’m interested in Full-stack web development.
 - 🌱 I’m currently learning Node.js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
